@@ -1,4 +1,6 @@
 export interface NewsAPI {
+    name: string;
+    id: string;
     source: {
         id: string;
         name: string;
