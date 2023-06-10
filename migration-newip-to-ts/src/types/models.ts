@@ -15,3 +15,8 @@ export interface NewsAPI {
     publishedAt: string;
     title: string;
 }
+
+export interface ResponseArticles {
+    sources: NewsAPI[];
+    articles: NewsAPI[];
+}
