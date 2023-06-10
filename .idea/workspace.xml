@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="feat: change source.js to source.ts">
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q7AJBBMpr9KuPx6BxzC5K8IyfQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SlaVR/Desktop/Frontend projects/slavr7-JSFE2023Q1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\SlaVR\\Desktop\\Frontend projects\\slavr7-JSFE2023Q1\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SlaVR\Desktop\Frontend projects\slavr7-JSFE2023Q1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="" />
+      <created>1684694175944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684694175944</updated>
+      <workItem from="1684694180240" duration="367000" />
+      <workItem from="1684931226266" duration="92000" />
+      <workItem from="1686060026292" duration="6947000" />
+      <workItem from="1686067246859" duration="2808000" />
+      <workItem from="1686070116489" duration="46296000" />
+    </task>
+    <task id="LOCAL-00001" summary="init: initial commit">
+      <created>1686060143159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686060143159</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: install dependencies">
+      <created>1686061119065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686061119065</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: add webpack and ESLint rules">
+      <created>1686062650574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686062650574</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add interface">
+      <created>1686142417061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686142417062</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: change news.js to news.ts">
+      <created>1686222964228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686222964228</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: change source.js to source.ts">
+      <created>1686229987583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686229987583</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: initial commit" />
+    <MESSAGE value="chore: install dependencies" />
+    <MESSAGE value="chore: add webpack and ESLint rules" />
+    <MESSAGE value="feat: add interface" />
+    <MESSAGE value="feat: change news.js to news.ts" />
+    <MESSAGE value="feat: change source.js to source.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: change source.js to source.ts" />
+  </component>
+</project>
