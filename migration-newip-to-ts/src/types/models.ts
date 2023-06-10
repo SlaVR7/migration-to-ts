@@ -20,3 +20,22 @@ export interface ResponseArticles {
     sources: NewsAPI[];
     articles: NewsAPI[];
 }
+
+export interface Request {
+    endpoint: EndpointType;
+    options?: Options;
+}
+
+export enum EndpointType {
+    Sources = 'sources',
+}
+
+export interface Options {
+    sources?: string;
+}
+
+export enum RequestType {
+    Get = 'GET',
+}
+
+export type OptionsKeys = keyof Options;

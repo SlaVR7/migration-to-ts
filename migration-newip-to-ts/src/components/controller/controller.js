@@ -1,10 +1,11 @@
 import AppLoader from './appLoader';
+import { EndpointType } from '../../types/models';
 
 class AppController extends AppLoader {
     getSources(callback) {
         super.getResp(
             {
-                endpoint: 'sources',
+                endpoint: EndpointType.Sources,
             },
             callback
         );
