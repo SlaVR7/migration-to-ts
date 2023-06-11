@@ -28,6 +28,7 @@ export interface Request {
 
 export enum EndpointType {
     Sources = 'sources',
+    Everything = 'everything',
 }
 
 export interface Options {
