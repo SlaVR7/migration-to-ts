@@ -3,7 +3,9 @@ import Sources from './sources/sources';
 import { NewsAPI, ResponseArticles } from '../../types/models';
 
 export class AppView {
-    constructor(private news: News, private sources: Sources) {
+    private news: News = new News();
+    private sources: Sources = new Sources();
+    constructor() {
         this.news = new News();
         this.sources = new Sources();
     }

@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="chore: change appLoader.js to appLoader.ts">
+    <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="chore: change controller.js to controller.ts">
+      <change afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/types/models.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/types/models.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
     "ts.external.directory.path": "C:\\Users\\SlaVR\\Desktop\\Frontend projects\\slavr7-JSFE2023Q1\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686471109784</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chore: change controller.js to controller.ts">
+      <created>1686473964398</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686473964398</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +176,7 @@
     <MESSAGE value="chore: add interface and fix constructor" />
     <MESSAGE value="chore: change loader.js to loader.ts" />
     <MESSAGE value="chore: change appLoader.js to appLoader.ts" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: change appLoader.js to appLoader.ts" />
+    <MESSAGE value="chore: change controller.js to controller.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: change controller.js to controller.ts" />
   </component>
 </project>
