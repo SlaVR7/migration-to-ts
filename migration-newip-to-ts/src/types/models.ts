@@ -32,6 +32,7 @@ export enum EndpointType {
 
 export interface Options {
     sources?: string;
+    apiKey?: string;
 }
 
 export enum RequestType {

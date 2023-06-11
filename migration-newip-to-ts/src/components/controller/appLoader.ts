@@ -1,10 +1,12 @@
 import Loader from './loader';
+import { Options } from '../../types/models';
 
 class AppLoader extends Loader {
     constructor() {
-        super('https://newsapi.org/v2/', {
+        const keys: Options = {
             apiKey: '378143bd20b844c1afbbc1260be37591', // получите свой ключ https://newsapi.org/
-        });
+        };
+        super('https://newsapi.org/v2/', keys);
     }
 }
 

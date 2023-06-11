@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="feat: change source.js to source.ts">
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.js" afterDir="false" />
+    <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="chore: change loader.js to loader.ts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/appLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/appLoader.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/types/models.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/types/models.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SlaVR/Desktop/Frontend projects/slavr7-JSFE2023Q1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\SlaVR\\Desktop\\Frontend projects\\slavr7-JSFE2023Q1\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/SlaVR/Desktop/Frontend projects/slavr7-JSFE2023Q1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\SlaVR\\Desktop\\Frontend projects\\slavr7-JSFE2023Q1\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SlaVR\Desktop\Frontend projects\slavr7-JSFE2023Q1" />
@@ -108,11 +111,30 @@
       <option name="project" value="LOCAL" />
       <updated>1686229987583</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chore: add interface and fix constructor">
+      <created>1686403445455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686403445455</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore: change loader.js to loader.ts">
+      <created>1686413296819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686413296819</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/migration-newip-to-ts/src/components/view/appView.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -132,6 +154,8 @@
     <MESSAGE value="feat: add interface" />
     <MESSAGE value="feat: change news.js to news.ts" />
     <MESSAGE value="feat: change source.js to source.ts" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: change source.js to source.ts" />
+    <MESSAGE value="chore: add interface and fix constructor" />
+    <MESSAGE value="chore: change loader.js to loader.ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: change loader.js to loader.ts" />
   </component>
 </project>
