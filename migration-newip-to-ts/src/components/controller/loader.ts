@@ -1,4 +1,4 @@
-import { Options, EndpointType, Request, RequestType, OptionsKeys } from '../../types/models';
+import { Options, EndpointType, Request, RequestType, OptionsKeys, ResponseArticles } from '../../types/models';
 
 class Loader {
     constructor(private readonly baseLink: string, private readonly options: Options) {}
@@ -33,7 +33,7 @@ class Loader {
         return url.slice(0, -1);
     }
 
-    load(method: RequestType, endpoint: EndpointType, callback: (data: string) => void, options = {}) {
+    load(method: RequestType, endpoint: EndpointType, callback: (data: ResponseArticles) => void, options = {}) {
         fetch(this.makeUrl(options, endpoint), { method })
             .then(this.errorHandler)
             .then((res) => res.json())

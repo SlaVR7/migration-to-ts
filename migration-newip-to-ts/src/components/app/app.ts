@@ -1,5 +1,6 @@
 import AppController from '../controller/controller';
 import { AppView } from '../view/appView';
+import { ResponseArticles } from '../../types/models';
 
 class App {
     private controller: AppController;
@@ -13,9 +14,9 @@ class App {
         const sourcesElement = document.querySelector('.sources');
         if (sourcesElement !== null) {
             sourcesElement.addEventListener('click', (e) =>
-                this.controller.getNews(e, (data) => this.view.drawNews(data))
+                this.controller.getNews(e, (data) => this.view.drawNews(data as ResponseArticles))
             );
-            this.controller.getSources((data) => this.view.drawSources(data));
+            this.controller.getSources((data) => this.view.drawSources(data as ResponseArticles));
         }
     }
 }
