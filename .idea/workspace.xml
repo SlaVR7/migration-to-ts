@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a611213b-496f-43d5-ad7a-71e21feda06b" name="Changes" comment="chore: change index.js to index.ts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/app/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/loader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/components/controller/loader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration-newip-to-ts/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/migration-newip-to-ts/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
